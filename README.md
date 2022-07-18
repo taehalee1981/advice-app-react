@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+PLEASE VISIT THE LINK BELOW TO CHECK THE DEPLOYED APP
+https://advice-app-taehalee.netlify.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
